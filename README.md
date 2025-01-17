@@ -1,4 +1,4 @@
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/alextreichler/stonks/blob/main/images/stonks.png?raw=true)
 
 # Stonks
